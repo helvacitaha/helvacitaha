@@ -1,4 +1,4 @@
-### High School Student, Software Developer, Machine Programmer
+### Embedded System Software Developer
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helvacitaha)](https://github.com/anuraghazra/github-readme-stats)
